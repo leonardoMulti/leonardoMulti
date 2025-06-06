@@ -1,14 +1,10 @@
 <img src='https://i.pinimg.com/736x/df/15/68/df1568f9780f29bb987ef40da64b7170.jpg'  height='300' width=100% >
 
 # Hello my name is Leonardo! but you can call me Multi
-
+<div>
    <img align='right' src="https://github-readme-stats.vercel.app/api?username=leonardoMulti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />  
-
-   
-   <p>
     I am a front-end developer with experience in building intuitive, accessible and responsive interfaces, always focusing on the best user experience. I am proficient in technologies such as HTML5, CSS3, JavaScript (ES6+), React.js and modern frameworks such as Next.js and Tailwind CSS.
-</p>
-
+</div>
 
 ## Skills
 
