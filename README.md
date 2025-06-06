@@ -6,6 +6,8 @@
     I am a front-end developer with experience in building intuitive, accessible and responsive interfaces, always focusing on the best user experience. I am proficient in technologies such as HTML5, CSS3, JavaScript (ES6+), React.js and modern frameworks such as Next.js and Tailwind CSS.
 </div>
 
+<br>
+
 ## Skills
 
 ##### Front-End
